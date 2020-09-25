@@ -1,0 +1,19 @@
+.loginContainer {
+    background-color: white;
+    padding-bottom: 15px;
+    border-radius: 10px;
+  }
+  
+  .socialButton {
+    margin-top: 15px;
+    background-color: white;
+    width: 187px;
+    height: 51px;
+    border-radius: 57px;
+    border: none;
+    font-size: 1.2rem;
+  }
+  
+  .socailIcon {
+    width: 31px;
+  }
